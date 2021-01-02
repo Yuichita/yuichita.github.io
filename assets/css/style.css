@@ -163,6 +163,10 @@ h1 {
 	width: 100%;
 	margin:  0 auto;
 }
+
+#main_right img {
+	max-width: 100%;
+}
 	
 /*=================================
 	main_area
@@ -437,6 +441,10 @@ h1 {
 	z-index: 200;
 	width: 100%;
 	margin:  0 auto;
+}
+
+#main_right img {
+	max-width: 100%;
 }
 	
 /*=================================
