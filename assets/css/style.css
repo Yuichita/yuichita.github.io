@@ -145,6 +145,10 @@ a:visited {
 	header
 ==================================*/
 
+body{
+	overflow-x: hidden;
+	}
+
 #header{
 	width: 100%;
 	background-color: #943232;
